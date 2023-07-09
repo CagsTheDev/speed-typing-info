@@ -27,6 +27,6 @@ Once you have invited **🌩 Speed Typing** to your server, you can start using 
 
 ---
 ### 📃 Privacy & ToS
-* [Privacy Policy]()
+* [Privacy Policy](https://github.com/CagsTheDev/speed-typing-info/blob/master/privacy-policy.md)
 * [Terms of Service](https://github.com/CagsTheDev/speed-typing-info/blob/master/terms-of-service.md)
 
