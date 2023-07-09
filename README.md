@@ -24,9 +24,10 @@ Once you have invited **🌩 Speed Typing** to your server, you can start using 
 
 ---
 ### Support
+If you need some help, please join to our [Support Server](https://discord.gg/FsKCD3c4T8)!
 
 ---
 ### 📃 Privacy & ToS
-* [Privacy Policy](https://github.com/CagsTheDev/speed-typing-info/blob/master/privacy-policy.md)
-* [Terms of Service](https://github.com/CagsTheDev/speed-typing-info/blob/master/terms-of-service.md)
+* [Privacy Policy](https://github.com/CagsTheDev/speed-typing-info/blob/5adaa14805b3720592cb3279b27adab6af2696f2/privacy-policy.md)
+* [Terms of Service](https://github.com/CagsTheDev/speed-typing-info/blob/5adaa14805b3720592cb3279b27adab6af2696f2/terms-of-service.md)
 
